@@ -67,13 +67,8 @@ Blending data, code, creativity, and a little soft energy to build beautiful & i
 - 🛡️ **travel app
 - ** Kenyan court-case analysis and prediction 
 
----
+--
 
-### 📊 GitHub Stats  
-
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1994-munk&layout=compact&theme=radical" height="180"/>
-</p>
 
 ---
 
