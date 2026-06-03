@@ -142,11 +142,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHdqdHc3cHQ1aTRlaHF0aXMyYW0yMGgxazJ6ZnF0dGx4a2llODFtNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G2cpDFcKzAPMScb0MC/giphy.gif" width="400"/>
-</p>
-
----
 
 ### 🌈 Let's Connect
 
