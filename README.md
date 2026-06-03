@@ -125,7 +125,6 @@
   </tr>
 </table>
 
-> 💡 Replace each `🔗 Repo` link with your actual GitHub repo URLs!
 
 ---
 
@@ -138,7 +137,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=1994-munk&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=1994-munk&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
