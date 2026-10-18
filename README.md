@@ -106,7 +106,7 @@
   <tr>
     <td>⚖️</td>
     <td><strong>Kenyan Court Case Analyzer & Predictor</strong><br/>NLP pipeline that analyzes and predicts outcomes of Kenyan legal cases from court text data. Unique local dataset, real-world NLP application.<br/><em>Stack: Python • NLP • pandas • scikit-learn</em></td>
-    <td><a href="#">🔗 Repo</a></td>
+    <td><a href="#">[🔗](https://github.com/1994-munk/kenyan-court-case-analysis) Repo</a></td>
   </tr>
   <tr>
     <td>🚦</td>
