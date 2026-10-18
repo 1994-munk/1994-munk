@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  🌍 Based in <strong>Nairobi, Kenya</strong> &nbsp;|&nbsp; 🔍 <strong>Open to Data Science & ML roles</strong> &nbsp;|&nbsp; 🛡️ Security-aware builder
+  🔍 <strong>Open to Data Science & ML roles</strong> &nbsp;|&nbsp; 🛡️ Security-aware builder
 </p>
 
 <p align="center">
